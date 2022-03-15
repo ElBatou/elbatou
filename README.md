@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://fernandoclpm.wordpress.com/](https://fernandoclpm.wordpress.com/)
 
-- 💬 Ask me about **wordpress**
+- 💬 Ask me about **wordpress**, **react**
 
 - 📫 How to reach me **ferco_clpm@hotmail.com**
 
