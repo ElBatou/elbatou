@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Jorge Cortez</h1>
-<h3 align="center">A passionate frontend developer from Bolivia</h3>
+<h3 align="center">A passionate Full stack Developer from Bolivia</h3>
 
-- 🌱 I’m currently learning **React, laravel, docker**
+- 🌱 I’m currently mastering **React, ExpressJS, Python**
 
 - Sample codes are available at [https://github.com/ElBatou](https://github.com/ElBatou)
 
